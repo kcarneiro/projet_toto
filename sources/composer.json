@@ -1,0 +1,13 @@
+{
+    "name": "neby55/projet_toto",
+    "description": "list students",
+    "authors": [
+        {
+            "name": "neby55",
+            "email": "ben@progweb.fr"
+        }
+    ],
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}
